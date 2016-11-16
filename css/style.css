@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+#nameForm {
+  position: absolute;
+  width: 245px;
+  margin-top: 30%;
+  margin-left:35%;
+}
+
+input {
+  background: url('../assets/img/User.png') no-repeat;
+  width: 317px;
+  height: 60px;
+  border: none;
+  outline: none;
+  padding-left: 20px;
+}
