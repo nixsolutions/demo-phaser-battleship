@@ -21,7 +21,7 @@
     "html-webpack-plugin": "^2.22.0",
     "phaser-input": "^1.2.5",
     "standard": "^8.0.0",
-    "webfontloader": "^1.6.26",
+    "webfontloader": "^1.6.26"
   },
   "dependencies": {
     "browser-sync-webpack-plugin": "^1.1.3",
